@@ -24,12 +24,6 @@ Describe what you learned and implemented in the project. -->
 
 <!-- ### Back-end
 
-Clone the project
-
-```bash
-  git clone https://link-para-o-projeto
-```
-
 Enter the project directory
 
 ```bash
@@ -50,12 +44,6 @@ Start the server
 
 ### Mobile
 
-Clone the project
-
-```bash
-  git clone https://github.com/VagnerNerves/flappy-bird.git
-```
-
 Enter the project directory
 
 ```bash
@@ -74,10 +62,3 @@ Start the server
   npm start
 ```
 
-<!-- ## 📝 Routes
-
-[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link) -->
-
-## 🌎 License
-
-This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
