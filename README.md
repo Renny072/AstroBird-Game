@@ -4,18 +4,6 @@
 
 Developed the Astro Bird Game project with React Native, where you have to make the bird pass through obstacles.
 
-## 🎨 Layout
-
-Layout developed by [Catapulta](https://www.catapulta.dev/)
-
-[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](https://www.figma.com/file/hhwWzuVv21S4nP9owaXGOm/Flappy-Bird?node-id=1%3A3&t=esEwYH8FnCFcuaTs-1)
-
- ## 🎥 Implementation Video
-
-
-
-https://user-images.githubusercontent.com/40831841/209418326-f116103d-0677-4e4d-941c-5b74465fdd05.mp4
-
 
 
 <!--
